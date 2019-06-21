@@ -1,1 +1,4 @@
-# Using-Chain-of-responsiblity
+# Using Chain of responsiblity
+
+ This is a simple project to test the design pattern: Chain of Responsibility.	<br />
+ The project has as purpose to show, in a simple way, how to implement that pattern and how it can solve many problems.
